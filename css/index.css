@@ -356,6 +356,9 @@ img {
     background: #ddd;
     transform: scale(1);
 }
+#container .company-info .depth1 > li:hover .depth2 {
+    display: block;
+}
 #container .company-info .depth2 {
     display: none;
 }
